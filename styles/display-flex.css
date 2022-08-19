@@ -1,0 +1,20 @@
+.container{
+    background-color: #ccc;
+    width: 600px;
+    height: 480px;
+    display: flex;
+    flex-direction: row;
+    /*alinha na vertical quando flex-direction = row*/
+    /*a linha na horizontal quando flex-direction = column*/
+    align-items: center;
+    /* Alinha  na horizontal quando flex-direction = row */
+     /* Alinha  na vertical quando flex-direction = column */
+
+
+    justify-content:flex-start;
+}
+.quadrado{
+    width: 100px;
+    height: 100px;
+  border: 6px solid red;
+}
