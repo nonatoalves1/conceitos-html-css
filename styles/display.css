@@ -1,0 +1,21 @@
+.display-inline{
+    display: inline;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin: 16px;
+}
+.display-block{
+    display:block;
+    width: 150px;
+    height: 150px;
+    background-color: #0f0;
+    margin: 16px;
+}
+.display-inline-block{
+    display:inline-block;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    margin: 16px;
+}
